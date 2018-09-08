@@ -1,5 +1,3 @@
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script style="text/javascript">
 jQuery(document).ready(function(){
 jQuery('.page00').click(function(){
 jQuery('.content00').show();
@@ -896,6 +894,4 @@ jQuery('.contentY').hide();
 jQuery('.contentZ').show();
 return false;
 });
-
 });
-</script> 
