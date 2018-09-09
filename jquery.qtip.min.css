@@ -1,8 +1,8 @@
 #qtip-overlay.blurs,.qtip-close{cursor:pointer}
 .qtip{position:absolute;left:-28000px;top:-28000px;display:none;max-width:1000px;min-width:50px;font-size:10.5px;line-height:12px;direction:ltr;box-shadow:none;padding:0}
 .qtip-content,.qtip-titlebar{position:relative;overflow:hidden}
-.qtip-content{padding:5px 9px;text-align:left;word-wrap:break-word}
-.qtip-default{border:1px solid #F1D031;background-color:#31A2F3;color:#555}
+.qtip-content {padding:5px 9px;text-align:left;word-wrap:break-word}
+.qtip-default {border:1px solid #F1D031;background-color:#000000;color:#555}
 .qtip-default .qtip-titlebar{background-color:#FFEF93}
 .qtip-default .qtip-icon{border-color:#CCC;background:#F1F1F1;color:#777}
 .qtip-default .qtip-titlebar .qtip-close{border-color:#AAA;color:#111}
