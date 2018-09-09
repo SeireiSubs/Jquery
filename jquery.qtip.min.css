@@ -1,5 +1,5 @@
 #qtip-overlay.blurs,.qtip-close{cursor:pointer}
-.qtip{position:absolute;left:-28000px;top:-28000px;display:none;max-width:280px;min-width:50px;font-size:10.5px;line-height:12px;direction:ltr;box-shadow:none;padding:0}
+.qtip{position:absolute;left:-28000px;top:-28000px;display:none;max-width:1000px;min-width:50px;font-size:10.5px;line-height:12px;direction:ltr;box-shadow:none;padding:0}
 .qtip-content,.qtip-titlebar{position:relative;overflow:hidden}
 .qtip-content{padding:5px 9px;text-align:left;word-wrap:break-word}
 .qtip-titlebar{padding:5px 35px 5px 10px;border-width:0 0 1px;font-weight:700}
