@@ -74,6 +74,6 @@
 .qtip .qtip-tip,.qtip .qtip-tip .qtip-vml,.qtip .qtip-tip canvas{position:absolute;color:#123456;background:0 0;border:0 dashed transparent}
 .qtip .qtip-tip canvas{top:0;left:0}
 .qtip .qtip-tip .qtip-vml{behavior:url(#default#VML);display:inline-block;visibility:visible}
-#qtip-overlay{position:fixed}
+
 
 
