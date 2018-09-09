@@ -76,4 +76,4 @@
 .qtip .qtip-tip .qtip-vml{behavior:url(#default#VML);display:inline-block;visibility:visible}
 #qtip-overlay{position:fixed}
 #qtip-overlay div{position:absolute;background-color:#000;opacity:.7;filter:alpha(opacity=70);-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"}
-.qtipmodal-ie6fix{position:absolute!important}
+
