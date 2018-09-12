@@ -1,0 +1,18 @@
+{
+    "person": {
+        "Title": "Charlotte",
+        "Episode": "13",
+        "Genre": "Drama, School, Super Power",
+        "Durasi": "23min per eps",
+        "country": "United Kingdom"
+    },
+    "job": {
+        "title": "Web Developer",
+        "company": "craigsworks",
+        "since": 2007
+    },
+    "specialities": [
+        "JavaScript", "jQuery", "CSS",
+        "(X)HTML", "PHP", "MySQL"
+    ]
+}
